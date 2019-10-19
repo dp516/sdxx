@@ -1,5 +1,5 @@
 '''
-@Descripttion: 简单感知机 
+@Descripttion: 简单感知机：与门
 @version: 
 @Author: stephendp
 @Date: 2019-10-20 00:36:33

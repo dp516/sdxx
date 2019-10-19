@@ -1,10 +1,10 @@
 '''
-@Descripttion: 
+@Descripttion: 简单感知机：与门、与非门和或门
 @version: 
 @Author: stephendp
 @Date: 2019-10-20 01:13:35
 @LastEditors: stephendp
-@LastEditTime: 2019-10-20 01:25:34
+@LastEditTime: 2019-10-20 01:30:25
 '''
 import numpy as np
 
