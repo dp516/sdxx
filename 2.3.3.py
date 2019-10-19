@@ -4,7 +4,7 @@
 @Author: stephendp
 @Date: 2019-10-20 01:13:35
 @LastEditors: stephendp
-@LastEditTime: 2019-10-20 01:22:47
+@LastEditTime: 2019-10-20 01:25:34
 '''
 import numpy as np
 
@@ -24,7 +24,7 @@ def AND(x1, x2):
         return 1
 
 """
-非门
+与非门
 """
 def NAND(x1, x2):
     x = np.array([x1, x2])
