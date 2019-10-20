@@ -1,10 +1,10 @@
 '''
-@Descripttion: 构造异或门 
+@Descripttion: 异或门 
 @version: 
 @Author: stephendp
 @Date: 2019-10-20 11:19:17
 @LastEditors: stephendp
-@LastEditTime: 2019-10-20 17:39:41
+@LastEditTime: 2019-10-21 00:48:08
 '''
 import numpy as np
 
